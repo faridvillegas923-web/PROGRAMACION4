@@ -1,0 +1,29 @@
+{
+  "historial": [
+    {
+      "expresion": "12*41",
+      "resultado": "492",
+      "fecha": "15:36:35",
+      "modo": "deg"
+    },
+    {
+      "expresion": "78+2",
+      "resultado": "80",
+      "fecha": "15:35:51",
+      "modo": "deg"
+    }
+  ],
+  "recientes": [
+    {
+      "expresion": "12*41",
+      "resultado": "492",
+      "fecha": "15:36:35"
+    }
+  ],
+  "memoria": 0.0,
+  "modo": "deg",
+  "decimales": 6,
+  "guardar_historial": true,
+  "mostrar_panel": true,
+  "expresion": ""
+}
